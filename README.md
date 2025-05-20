@@ -2,7 +2,7 @@
 
 **FauxMart** is a beautifully designed, mock eCommerce store built using [FakeStoreAPI](https://fakestoreapi.com). It's ideal for developers looking to practice React, frontend interviews, or showcase a polished portfolio project with real-world patterns like routing, authentication, and cart management.
 
-![FauxMart Banner](https://via.placeholder.com/1200x400.png?text=FauxMart+eCommerce+Store) <!-- Replace with your banner image -->
+![FauxMart Banner](./src/assets/images/ic_fauxmart_github_banner.png)
 
 ---
 
@@ -19,8 +19,8 @@
 
 ## 📸 Screenshots
 
-| Home Page | Product Detail | Cart |
-|----------|----------------|------|
+| Home Page                                    | Product Detail                                 | Cart                                         |
+| -------------------------------------------- | ---------------------------------------------- | -------------------------------------------- |
 | ![Home](https://via.placeholder.com/300x200) | ![Detail](https://via.placeholder.com/300x200) | ![Cart](https://via.placeholder.com/300x200) |
 
 ---
@@ -43,7 +43,7 @@ git clone https://github.com/your-username/fauxmart.git
 cd fauxmart
 npm install
 npm run dev
-````
+```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
@@ -51,10 +51,10 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## 🧪 Use Cases
 
-* Showcase project for portfolio
-* Practice for frontend interviews
-* Starter boilerplate for eCommerce projects
-* Learn real-world React architecture
+- Showcase project for portfolio
+- Practice for frontend interviews
+- Starter boilerplate for eCommerce projects
+- Learn real-world React architecture
 
 ---
 
