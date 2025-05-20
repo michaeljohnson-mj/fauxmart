@@ -14,7 +14,6 @@
 - 💳 **Mock Checkout Flow**
 - 🔐 **Basic Authentication Flow**
 - 📱 **Mobile Responsive**
-- 🧪 Great for learning React, routing, state management, and API handling
 
 ---
 
@@ -29,10 +28,11 @@
 ## 🛠️ Tech Stack
 
 - **React + Vite**
-- **Tailwind CSS**
+- **Redux Toolkit**
+- **RTK Query**
 - **React Router**
 - **FakeStore API**
-- **localStorage** for persistence
+- **MUI**
 
 ---
 
@@ -58,14 +58,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 🙌 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss.
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
-
----
-
 ## 📄 License
 
 [MIT License](./LICENSE)
@@ -81,7 +73,3 @@ This project was inspired by the need for realistic practice apps with a fully f
 ## ❤️ Support
 
 If you find this project useful, give it a ⭐️ and consider sharing it with other developers!
-
-```
-
----
