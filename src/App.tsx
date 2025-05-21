@@ -1,5 +1,11 @@
+import Login from "./pages/login/Login";
+
 const App = () => {
-  return <div>Welcome to FauxMart</div>;
+  return (
+    <>
+      <Login />
+    </>
+  );
 };
 
 export default App;
